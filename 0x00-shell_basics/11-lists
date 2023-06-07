@@ -1,3 +1,4 @@
-#!/bin/bash
-ls . .. /boot  -la 
+#!/bin/bash 
+ls -al; cd ..; ls -al; cd /boot; ls -al
+
 
