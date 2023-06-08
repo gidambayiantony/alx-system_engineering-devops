@@ -1,4 +1,2 @@
 #!/bin/bash
-
-groups | tr ' ' '\n' | head -n 2
-
+groups
