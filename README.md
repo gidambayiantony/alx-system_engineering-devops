@@ -34,7 +34,7 @@ All of the following folders are projects done during the studies:
 
 
 ## Author :
-* **[Suara Ayomide](https://twitter.com/Dark_254)** <[Aysuarex](https://github.com/gidambayiantony)>
+* **[Anto_254](https://twitter.com/Dark_254)** <[Anthony Gidambayi](https://github.com/gidambayiantony)>
 
 ## Acknowledgements :pray:
 
